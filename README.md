@@ -1,7 +1,24 @@
 # PyProjectManager
-PyProjectManager Is A Public Project, Currently In Development That Can Be A Developers Friend. Managing Your Projects, Password-Protecting Them, Syncing Them To Cloud, Makes Creating New Projects A Breeze, Includes Pre-Built Templates, Libraries, Has An Option To Add New Templates, Linked To Your Own Firebase, Easy To Set Up.
+PyProjectManager is a public project currently in development and can be a developer’s friend. It helps manage your projects, password-protecting them, and syncing them to the cloud, makes creating new projects a breeze, includes pre-built templates, and libraries, has the option to add new templates, is linked to your own Firebase, and is easy to set up.
 
-***The Project Began When I Saw My Laptop As A Mess Of Folders.***,
-***End Quote Here***
+# PLANNED FEATURES
+Project Managing
+Encryption
+Cloud Syncing
+Pre-Built Templates
+Pre-Built QoL Modules
+Ability To Add Own Templates
+Linked To Your Firebase
+Macro Creation Scripting Language
 
-FEATURES
+
+
+# The Modules Listed Below Are Planned To Be Added:
+
+# Polymer CLI - utility.polymercli
+
+Polymer CLI Is An Easy-To-Use CLI Creation Module That Can Understand The Syntax Of Commands, Call The Function Bound To Them Wit A List Of Parameters, And Also Has A Customizable Command Interface.
+
+# ConfigParsePlus - utility.configparseplus
+# UUIDSYS - utility-uuidsys
+# Encrypt Easy - encez
