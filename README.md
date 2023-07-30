@@ -20,5 +20,28 @@ Macro Creation Scripting Language
 Polymer CLI Is An Easy-To-Use CLI Creation Module That Can Understand The Syntax Of Commands, Call The Function Bound To Them Wit A List Of Parameters, And Also Has A Customizable Command Interface.
 
 # ConfigParsePlus - utility.configparseplus
-# UUIDSYS - utility-uuidsys
-# Encrypt Easy - encez
+
+ConfigParsePlus Is A QoL Module Used To Read A Custom Config File. It Can Also Generate A Config File.
+The Syntax Is As Follows:
+key: value
+key: value
+key: value
+These Are Also Valid:
+key:value
+key:   value
+    key : value
+key :value
+Or Anything You Could Imagine.
+
+# UUIDSYS - utility.uuidsys
+
+UUIDSYS Is A Simple ID Generation Module. Every ID Is (You Define It) Characters Long And Custom Character Lists Can Be Inserted.
+
+# Encrypt Easy - utility.encrypteasy
+
+Encrypt Easy Is An Encryption Module Built On Fernet But With Simpler Syntax.
+
+
+
+
+
