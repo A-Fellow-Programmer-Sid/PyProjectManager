@@ -3,13 +3,21 @@ PyProjectManager is a public project currently in development and can be a devel
 
 # PLANNED FEATURES
 Project Managing
+
 Encryption
+
 Cloud Syncing
+
 Pre-Built Templates
+
 Pre-Built QoL Modules
+
 Ability To Add Own Templates
+
 Linked To Your Firebase
+
 Macro Creation Scripting Language
+
 
 
 
